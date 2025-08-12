@@ -172,7 +172,7 @@ const body = () => {
                             </div>
                             <div className="card_div3">
                                 <p>
-                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem, ipsa fugit amet voluptatem expedita doloremque.
+                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.
                                 </p>
                             </div>
                         </div>
@@ -193,8 +193,7 @@ const body = () => {
                             </div>
                             <div className="card_div3">
                                 <p>
-                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem, ipsa fugit amet voluptatem expedita doloremque.
-                                </p>
+                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.                                </p>
                             </div>
                         </div>
 
@@ -214,8 +213,7 @@ const body = () => {
                             </div>
                             <div className="card_div3">
                                 <p>
-                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem, ipsa fugit amet voluptatem expedita doloremque.
-                                </p>
+                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.                                </p>
                             </div>
                         </div>
 
@@ -234,8 +232,7 @@ const body = () => {
                             </div>
                             <div className="card_div3">
                                 <p>
-                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolorem, ipsa fugit amet voluptatem expedita doloremque.
-                                </p>
+                                    Lorem ipsum dolor, sit amet consectetur adipisicing elit.                                </p>
                             </div>
                         </div>
 
@@ -377,7 +374,7 @@ const body = () => {
                         </div>
 
 
-                        
+
                     </div>
                 </div>
             </div>
