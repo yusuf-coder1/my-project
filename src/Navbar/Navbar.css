@@ -7,7 +7,7 @@
 .main {
   width: 100%;
   height: 80px;
-  background: linear-gradient(90deg, #6FA6AB, #028685);
+  background: linear-gradient(90deg, #6fa6abbe, #0286869a);
   display: flex;
   justify-content: space-between;
   align-items: center;
